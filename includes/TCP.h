@@ -9,7 +9,7 @@
 
 
 
-
+// kommentar
 int socket_create(int socket_type);
 int setup_address(struct sockaddr_in *server_address, const char *device_ip, int port);
 

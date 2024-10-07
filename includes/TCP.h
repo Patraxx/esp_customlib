@@ -5,7 +5,7 @@
 
 #define UDP_SOCKET 0
 #define TCP_SOCKET 1
-#define DEVICE_PORT 1986 //specifikt för dessa skärmar
+#define DEVICE_PORT 1349 
 
 
 

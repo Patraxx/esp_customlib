@@ -4,6 +4,7 @@
 .main
 CMakelists.txt
 README.mod
+main/
 
 #changed a gitignore file
 

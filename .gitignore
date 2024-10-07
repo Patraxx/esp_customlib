@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+.devcontainer
+.main
+CMakelists.txt
+README.mod
 
 #changed a gitignore file
 

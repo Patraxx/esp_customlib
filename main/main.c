@@ -60,9 +60,10 @@ void sender(void *pvParameters){
 
 
 
-void app_main() {
+void app_main(void) {
     // Your application co
     wifi_init_sta();
+
 
     
     
